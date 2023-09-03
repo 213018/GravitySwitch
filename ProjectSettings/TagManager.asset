@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - FallDetector
+  - CheckPoint
+  - NextLvl
+  - PrevLvl
+  - Crystal
+  - Spike
+  - YouWin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Ceeling
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 605174647
+    locked: 0
+  - name: Middleground
+    uniqueID: 1133182115
+    locked: 0
+  - name: Foreground
+    uniqueID: 40926515
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
