@@ -44,13 +44,14 @@ public void Damage(float dmg){
 Во GameManager класата се состои од два Game објеки и повеќе функции кои се повикуваат при клик на копчињата што ги имаат Главното Мени, менито што се појавува при губење на целиот “Health”, односно GameOver менито и менито при успешно поминување на двата левели.
 ## 3.Изглед на играта
 ### --Почетно Мени
-![Screenshot_1](https://github.com/213018/GravitySwitch/assets/129883425/1c1db7ff-0241-4feb-bd8f-ff05a86d79ce)
+![Screenshot_1](https://github.com/213018/GravitySwitch/assets/129883425/fb8fb94d-b0f4-4172-912a-3b87f416fd46)
 ### --How to play
- ![Screenshot_4](https://github.com/213018/GravitySwitch/assets/129883425/466937b6-da2e-4bd5-8a3c-4d22ebab1960)
+ ![Screenshot_4](https://github.com/213018/GravitySwitch/assets/129883425/07606045-e700-48ad-98d4-2db0923cd5b4)
 ### --Левел 1
- ![Screenshot_2](https://github.com/213018/GravitySwitch/assets/129883425/12fc4aee-afaa-42b6-94cd-7c5e54d90ba2)
+![Screenshot_2](https://github.com/213018/GravitySwitch/assets/129883425/2933d5c3-3380-4479-a12f-fca8d4134785)
 ### --GameOver
- ![Screenshot_3](https://github.com/213018/GravitySwitch/assets/129883425/1ce41d92-ddaf-4400-9d3f-f13806a650ac)
+![Screenshot_3](https://github.com/213018/GravitySwitch/assets/129883425/dc4086e3-99d0-4470-8070-c7339915e612)
 ### --YouWon
- ![Screenshot_5](https://github.com/213018/GravitySwitch/assets/129883425/f330fab3-f0a5-41eb-8aa3-018ad1da8a20)
+![Screenshot_5](https://github.com/213018/GravitySwitch/assets/129883425/c5caa9bd-2265-4227-b2c9-da8a6c0034b6)
+
 
